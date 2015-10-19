@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-responsive-iframes",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A plugin to resize special iframes",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
   "author": "Phillip Alexander",
   "license": "ISC",
   "engines": {
-      "gitbook": ">=2.5.0"
+    "gitbook": ">=2.5.0"
   },
   "bugs": {
     "url": "https://github.com/phillipalexander/gitbook-plugin-responsive-iframes/issues"
